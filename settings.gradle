@@ -1,0 +1,2 @@
+include ':gui', ':app-master', ':app-debug'
+include ':sdk'

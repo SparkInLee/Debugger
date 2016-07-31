@@ -1,0 +1,7 @@
+apply plugin: 'application'
+
+mainClassName = "com.lee.gui.DebugApp"
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}
